@@ -1,6 +1,6 @@
 var img;
 function preload() {
-  img = loadImage('files/unicorncandyland.jpg');
+  img = loadImage('files/unicorn.jpg');
 }
 function setup() {
   image(img, 0, 0);
