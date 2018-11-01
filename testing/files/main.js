@@ -3,5 +3,5 @@ function preload() {
   img = loadImage('files/unicorn.jpg');
 }
 function setup() {
-  image(img, 0, 0);
+  image(img, 100, 100);
 }
