@@ -3,7 +3,7 @@ function preload() {
   img = loadImage('files/unicorn.jpg');
 }
 function setup() {
-  createCanvas(1080, 600);
+  createCanvas(600, 600);
   background(0)
-  //image(img, 0, 0);
+  image(img, 0, 0);
 }
